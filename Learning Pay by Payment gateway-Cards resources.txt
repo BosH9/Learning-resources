@@ -1,0 +1,9 @@
+Learning Pay by Payment gateway/Cards
+--------------------------------------
+
+1) https://www.npmjs.com/package/angular-payments
+2) https://www.airpair.com/javascript/integrating-stripe-into-angular-app
+3) https://www.codeproject.com/Articles/1160729/Build-a-Credit-Card-Entry-Page-using-Angular-Par
+4) https://developer.paypal.com/docs/classic/paypal-payments-pro/integration-guide/direct-payment/
+5) https://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS
+6) 
